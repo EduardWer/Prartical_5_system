@@ -1,0 +1,3 @@
+C:/Users/Eduard/CLionProjects/tet_classis/cmake-build-debug/CMakeFiles/tet_classis.dir
+C:/Users/Eduard/CLionProjects/tet_classis/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Eduard/CLionProjects/tet_classis/cmake-build-debug/CMakeFiles/rebuild_cache.dir
